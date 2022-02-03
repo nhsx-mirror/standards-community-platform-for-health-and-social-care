@@ -22,8 +22,8 @@ you can view and submit improvements or report a bug to the standards directory
 
 ## Ways to contribute
 Anyone can contribute to the community backlog. All you need is a [public GitHub account](https://github.com/) to get started. Most contributions begin with a GitHub issue using one of these templates:
-- [suggest an improvement to the standards directory](https://github.com/nhsx/standards-community-platform-for-health-and-social-care/issues/new?assignees=&labels=&template=3-suggest-a-new-feature-or-improvement-to-the-standards-directory.md&title=)
-- [report a problem or bug with the standards directory](https://github.com/nhsx/standards-community-platform-for-health-and-social-care/issues/new?assignees=&labels=&template=4-report-a-problem-with-the-standards-directory.md&title=)
+- [suggest an improvement to the standards directory](https://github.com/nhsx/standards-community-platform-for-health-and-social-care/issues/new?assignees=&labels=&template=suggest-a-new-feature-or-improvement-to-the-standards-directory.md&title=)
+- [report a problem or bug with the standards directory](https://github.com/nhsx/standards-community-platform-for-health-and-social-care/issues/new?assignees=&labels=&template=-report-a-problem-with-the-standards-directory.md&title=)
 
 To feedback or share insights on something that already exists:
 - find the issue in the community backlog - in the [issues list](https://github.com/nhsx/standards-community-platform-for-health-and-social-care/issues) or [community backlog](https://github.com/nhsx/standards-community-platform-for-health-and-social-care/projects/1)
