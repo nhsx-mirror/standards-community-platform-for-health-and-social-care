@@ -20,9 +20,19 @@ you can read discussions on local specifications, use cases and standards implem
 - [standards community development backlog](https://github.com/nhsx/standards-community-platform-for-health-and-social-care/projects/1), 
 you can read proposals for new standards, proposals for extensions or changes to existing standards, raise your own issue using a template and comment on others’ proposals
 
+## Ways to contribute
+Anyone can contribute to the community backlog. All you need is a [public GitHub account](https://github.com/) to get started. Most contributions begin with a GitHub issue using one of these templates:
+- [share a need for a new standard](https://github.com/nhsx/standards-community-platform-for-health-and-social-care/issues/new?assignees=&labels=&template=1-share-a-need-for-a-new-standard.md&title=)
+- [propose a change to an existing standard](https://github.com/nhsx/standards-community-platform-for-health-and-social-care/issues/new?assignees=&labels=&template=2-identify-a-gap-in-the-existing-standards.md&title=)
+- [suggest an improvement to the standards directory](https://github.com/nhsx/standards-community-platform-for-health-and-social-care/issues/new?assignees=&labels=&template=3-suggest-a-new-feature-or-improvement-to-the-standards-directory.md&title=)
+- [report a problem or bug with the standards directory](https://github.com/nhsx/standards-community-platform-for-health-and-social-care/issues/new?assignees=&labels=&template=4-report-a-problem-with-the-standards-directory.md&title=)
 
-You can find more information about how to contribute on the [contribution guidance page in the standards directory (opens in new window)](https://nhs-standards-registry.herokuapp.com/v6/community-contribution).
+To feedback or share insights on something that already exists:
+- find the issue in the community backlog - in the [issues list](https://github.com/nhsx/standards-community-platform-for-health-and-social-care/issues) or [community backlog](https://github.com/nhsx/standards-community-platform-for-health-and-social-care/projects/1)
+- add a comment to that issue
 
+## Maintaining the backlog
+The [standards directory team](standards.directory@nhsx.nhs.uk) moderates and maintains the standards community backlog and the discussions forum. It labels, manages and closes issues on this GitHub repository.
 
 ## Support
 The standards directory team moderate the standards community development backlog and the discussions forum.
