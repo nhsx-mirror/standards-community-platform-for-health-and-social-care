@@ -1,5 +1,5 @@
 # Standards community platform for health and social care 
-## Note: This platform is part of ongoing research on community contributions in conjunction with the [NHSX Standards Directory](https://nhs-standards-registry.herokuapp.com/v6/home)
+## Note: This platform is part of ongoing research on community contributions in conjunction with the [NHS standards directory](https://nhs-standards-registry.herokuapp.com/v6/home)
 
 This platform is open to anyone who uses, develops, commissions, owns or assures standards, services and APIs relating to interoperable technology in health and social care. 
 
