@@ -1,5 +1,5 @@
 # Standards community platform for health and social care 
-## Note: This platform is part of ongoing research on community contributions in conjunction with the [NHSX Standards Directory](https://github.com/nhsx/standards-registry-discovery)
+## Note: This platform is part of ongoing research on community contributions in conjunction with the [NHSX Standards Directory](https://nhs-standards-registry.herokuapp.com/v6/home)
 
 This platform is open to anyone who uses, develops, commissions, owns or assures standards, services and APIs relating to interoperable technology in health and social care. 
 
@@ -17,7 +17,7 @@ The platform has two main areas. In the:
 - [discussions forum](https://github.com/nhsx/standards-community-platform-for-health-and-social-care/discussions),
 you can read discussions on local specifications, use cases and standards implementation, post a new discussion and respond to others’ posts
 
-- [standards community development backlog](https://github.com/nhsx/standards-community-platform-for-health-and-social-care/projects/1), 
+- [standards community backlog](https://github.com/nhsx/standards-community-platform-for-health-and-social-care/projects/1), 
 you can view and submit improvements or report a bug to the standards directory
 
 ## Ways to contribute
